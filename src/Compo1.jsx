@@ -5,12 +5,13 @@ import './App.css'
   return (
     <div className='compo1'>
         <h1>Hello</h1>
-      <button className="btn btn-outline-success px-5 py-5 mx-5 my-5 m-5 button1">click me</button>
-      <button className="btn btn-outline-danger px-5 py-5 mx-5 my-5 m-5 button1">click me</button>
-      <button className="btn btn-outline-warning px-5 py-5 mx-5 my-5 m-5 button1">click me</button>
-      <button className="btn btn-outline-info px-5 py-5 mx-5 my-5 m-5 button1">click me</button>
-      <button className="btn btn-outline-primary px-5 py-5 mx-5 my-5 m-5 button1">click me</button>
-      <button className="btn btn-outline-secondary px-5 py-5 mx-5 my-5 m-5 button1">click me</button>
+      <button className="btn btn-outline-success px-4 py-4 mx-4 my-4 m-4 button1">click me</button>
+      <button className="btn btn-outline-danger px-4 py-4 mx-4 my-4 m-4 button1">click me</button>
+      <button className="btn btn-outline-warning px-4 py-4 mx-4 my-4 m-4 button1">click me</button>
+      <button className="btn btn-outline-info px-4 py-4 mx-4 my-4 m-4 button1">click me</button>
+      <button className="btn btn-outline-primary px-4 py-4 mx-4 my-4 m-4 button1">click me</button>
+      <button className="btn btn-outline-secondary px-4 py-4 mx-4 my-4 m-4 button1">click me</button>
+      <button className="btn btn-outline-light px-4 py-4 mx-4 my-4 m-4 button1">click me</button>
     </div>
   );
 }
